@@ -1,0 +1,1 @@
+Roslyn version: 3.7.0.0Language version: CSharp8"Concurrent execution: disabledóíFile 'C:\Users\Yasin\Desktop\ShopsRU\Contracts\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs' was recognized as generatedÅ}File 'C:\Users\Yasin\Desktop\ShopsRU\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs' was recognized as generated

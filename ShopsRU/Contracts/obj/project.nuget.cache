@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Vvl/588V3RxwWmwHyuE8GALmBjyqaUQYnoDC5OsE2kXSMz0EbpHvFzHD3T6jRqI6EpLFSoJ2HtPEjqUUyrKGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alkan\\Desktop\\ShopsRU\\ShopsRU\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alkan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.22\\microsoft.aspnetcore.jsonpatch.3.1.22.nupkg.sha512",
+    "C:\\Users\\alkan\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.22\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.22.nupkg.sha512",
+    "C:\\Users\\alkan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alkan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\alkan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

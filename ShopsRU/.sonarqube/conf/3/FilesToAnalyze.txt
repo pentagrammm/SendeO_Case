@@ -1,0 +1,3 @@
+﻿C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.BLL\Abstract\IBillServiceBll.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.BLL\Concrete\BillServiceBll.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.BLL\Helpler\BillCalculationHelper.cs

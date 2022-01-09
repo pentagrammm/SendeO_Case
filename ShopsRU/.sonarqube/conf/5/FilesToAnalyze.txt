@@ -1,0 +1,3 @@
+﻿C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.PL\Abstract\IBillServicePL.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.PL\Concrete\BillServicePL.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.PL\Validation\BillServiceValidation.cs

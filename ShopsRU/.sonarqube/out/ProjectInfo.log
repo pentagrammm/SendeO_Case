@@ -1,0 +1,30 @@
+Product projects
+---------------------------------------
+C:\Users\Yasin\Desktop\ShopsRU\Contracts\Contracts.csproj
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DAL\Dao.ShopsRuDb.DAL.csproj
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Dao.ShopsRuDb.DALMANAGER.csproj
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.BLL\ShopsRU.BLL.csproj
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.PL\ShopsRU.PL.csproj
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\ShopsRU.Api.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Test\ShopsRU.Test.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

@@ -1,0 +1,8 @@
+﻿C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\Controllers\BillController.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\Program.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\Startup.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\obj\Debug\netcoreapp3.1\ShopsRU.Api.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\appsettings.Development.json
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\appsettings.json
+C:\Users\Yasin\Desktop\ShopsRU\ShopsRU.Api\Properties\launchSettings.json

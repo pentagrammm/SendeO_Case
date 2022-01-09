@@ -1,0 +1,14 @@
+C
+:C:\Users\Yasin\Desktop\ShopsRU\Contracts\BaseRequestDto.csutf-8D
+;C:\Users\Yasin\Desktop\ShopsRU\Contracts\BaseResponseDto.csutf-8I
+@C:\Users\Yasin\Desktop\ShopsRU\Contracts\BaseResponseExecuter.csutf-8Q
+HC:\Users\Yasin\Desktop\ShopsRU\Contracts\Exceptions\BusinessException.csutf-8N
+EC:\Users\Yasin\Desktop\ShopsRU\Contracts\Exceptions\CodedException.csutf-8Q
+HC:\Users\Yasin\Desktop\ShopsRU\Contracts\Exceptions\ValidateException.csutf-8B
+9C:\Users\Yasin\Desktop\ShopsRU\Contracts\ResponseCodes.csutf-8_
+VC:\Users\Yasin\Desktop\ShopsRU\Contracts\ShopsRuService\Dto\CalculateBillRequestDto.csutf-8`
+WC:\Users\Yasin\Desktop\ShopsRU\Contracts\ShopsRuService\Dto\CalculateBillResponseDto.csutf-8S
+JC:\Users\Yasin\Desktop\ShopsRU\Contracts\ShopsRuService\IBillController.csutf-8S
+JC:\Users\Yasin\Desktop\ShopsRU\Contracts\ShopsRuService\Type\SectorType.csutf-8z
+oC:\Users\Yasin\Desktop\ShopsRU\Contracts\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8e
+ZC:\Users\Yasin\Desktop\ShopsRU\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.csutf-8

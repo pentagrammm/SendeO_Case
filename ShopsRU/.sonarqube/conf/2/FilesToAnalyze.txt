@@ -1,0 +1,9 @@
+﻿C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\BaseDalmanager.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\ICustomerRepository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\IDiscountRepository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\IRepository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\CustomerRepository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\DiscountRepository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\Repository.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\UnitOfWork\IUnitOfWork.cs
+C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\UnitOfWork\UnitOfWork.cs

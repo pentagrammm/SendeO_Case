@@ -1,0 +1,12 @@
+R
+IC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\BaseDalmanager.csutf-8m
+dC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\ICustomerRepository.csutf-8m
+dC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\IDiscountRepository.csutf-8e
+\C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Abstract\IRepository.csutf-8l
+cC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\CustomerRepository.csutf-8l
+cC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\DiscountRepository.csutf-8d
+[C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\Repositories\Concrete\Repository.csutf-8Z
+QC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\UnitOfWork\IUnitOfWork.csutf-8Y
+PC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\UnitOfWork\UnitOfWork.csutf-8‰
+~C:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8ƒ
+xC:\Users\Yasin\Desktop\ShopsRU\Dao.ShopsRuDb.DALMANAGER\obj\Debug\netcoreapp3.1\Dao.ShopsRuDb.DALMANAGER.AssemblyInfo.csutf-8
