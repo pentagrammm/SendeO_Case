@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "cfff03d0-f6c5-49f9-b0b1-c9a20219ef37",
+		"name": "Apply Discount With Every 100$",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Every 100$",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\":\"20415bce-98f8-4df4-8cc0-9ed16a2013a0\",\r\n    \"Amount\":151.00,\r\n    \"SectorType\":\"Groceries\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Bill/CalculateBill",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Bill",
+						"CalculateBill"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

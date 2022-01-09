@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "977f39bf-16a6-47ff-9d4f-b058ef9aa275",
+		"name": "Apply Without Groceries Discount And Every 100$ Discount",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "%5 Discount",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\":\"3e8d458f-be44-4b61-92f2-542fd73c828a\",\r\n    \"Amount\":151.00,\r\n    \"SectorType\":\"Textile\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Bill/CalculateBill",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Bill",
+						"CalculateBill"
+					]
+				},
+				"description": "Do not Apply Groceries Discount %5Discount"
+			},
+			"response": []
+		},
+		{
+			"name": "%10 Discount",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\":\"329f8e06-e334-47b6-9ff7-03eca795bd62\",\r\n    \"Amount\":151.00,\r\n    \"SectorType\":\"Textile\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Bill/CalculateBill",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Bill",
+						"CalculateBill"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "%30 Discount",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\":\"20415bce-98f8-4df4-8cc0-9ed16a2013a0\",\r\n    \"Amount\":151.00,\r\n    \"SectorType\":\"Textile\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Bill/CalculateBill",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Bill",
+						"CalculateBill"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Just Every 100$ Discount",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\":\"1584c331-d7dd-4f18-9b7d-3e48cd13ef9c\",\r\n    \"Amount\":150.00,\r\n    \"SectorType\":\"Textile\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Bill/CalculateBill",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Bill",
+						"CalculateBill"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
